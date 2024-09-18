@@ -1,0 +1,5 @@
+libpysal==4.12.0
+geopandas==1.0.1
+matplotlib==3.9.2
+mapclassify==2.8.0
+numpy==2.1.0
